@@ -100,5 +100,8 @@ brew install tree
 brew install webkit2png
 brew install zopfli
 
+# Install my favorites
+brew install legit
+
 # Remove outdated versions from the cellar.
 brew cleanup
