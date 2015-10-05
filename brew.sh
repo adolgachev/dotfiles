@@ -102,6 +102,8 @@ brew install zopfli
 
 # Install my favorites
 brew install legit
+#brew install mysql
+brew install postgresql
 
 # Remove outdated versions from the cellar.
 brew cleanup
